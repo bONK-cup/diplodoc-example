@@ -11,5 +11,3 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
-  - name: Pukich
-    href: pukich.md
